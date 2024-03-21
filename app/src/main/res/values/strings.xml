@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertidorMoneda</string>
+    <string name="TxtTitulo">Convertidor de Monedas</string>
+    <string name="Pesos"> Ingrese el Valor En Pesos</string>
+    <string name="Boton">Convertir</string>
+
+</resources>
